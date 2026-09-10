@@ -1,47 +1,12 @@
 [
     {
-        "name": "Hız Tuzağı (Speed) (1994)",
-        "url": "https://s7.gelsistirire.top/d/zqna2ykosk3rtzj5htwqbv4eif4tdlcjdunanvgteej2ntsxjqrs2n6qldd6fjeuvxqetjou/Speed-1994-BLURAY-TRDUAL-dual-tt0111257.mp4",
-        "isActive": false
-    },
-    {
-        "name": "Maskeli Beşler Irak (The Masked Gang: Iraq) (2007)",
-        "url": "https://s6.gelsistirire.top/d/zunjjfsjsk3rtzj5hxwrjqmnkbj3kvqysnvffcrmrl52sekukmoipglnk5qgm2itmqjdv6hd/Maskeli%20Besler%20Irak%202007%20WEB-DL%201080p.mp4",
-        "isActive": false
-    },
-    {
-        "name": "Dün Gibi (Only Yesterday) (1991)",
-        "url": "https://s8.gelsistirire.top/d/ymnas2kosk3rtzj5htwr3g4fldhc6qqwb5vtpadc65r55mkck5w2nifxdfyg55ik766foywb/OnlyYesterday-1991-NF-TRDUAL%20mp4.mp4",
-        "isActive": false
-    },
-    {
-        "name": "Hababam Sınıfı Üç Buçuk (The Class of Chaos 3,5) (2006)",
-        "url": "https://s7.gelsistirire.top/d/zqni54sosk3rtzj5axwrdrefdoy7bawaetusk2ytajqkpa3u2alxob547uvkyqsx4atrklpn/Hababam%20Sinifi%20Uc%20Bucuk%202005%20WEB-DL%201080p.mp4",
-        "isActive": false
-    },
-    {
-        "name": "Can Dostum (The Intouchables) (2011)",
-        "url": "https://s9.gelsistirire.top/d/yinlwuspsk3rtzj5btwrrxm6kki2ac6cc2dooxprtadmkt7gf7w4jojsmg4dtls4wqkr6pm3/Intouchables%202011%20Bluray%201080p%20DUAL.mp4",
-        "isActive": false
-    },
-    {
-        "name": "Kadın Kokusu (Scent of a Woman) (1992)",
-        "url": "https://s6.gelsistirire.top/d/zunplfsjsk3rtzj5hxwr3tegi3xb2ebiewcssl4gs5n56uekpeyl2ifb4daf3ngmg4xkq5e3/Scent%20of%20a%20Woman%201992%20Bluray%201080p%20DUAL.mp4",
-        "isActive": false
-    },
-    {
-        "name": "Şimdi ya da Asla (The Bucket List) (2007)",
-        "url": "https://s5.gelsistirire.top/d/zynhw62psk3rtzj5hdwqzs4kjnlsiyyrnju6qdymhgkfuorqiulxn66j6nbb5t4h3ki6z5rx/The%20Bucket%20List%202007%20WEB-DL%201080p%20DUAL.mp4",
-        "isActive": false
-    },
-    {
-        "name": "Wall-E (2008)",
-        "url": "https://s9.gelsistirire.top/d/yinnf52osk3rtzj5atwrfwgvchugss3o7bsddmkskrbmz54hvsctkpyg4hux6ihqixpsnwhd/Wall-E%20-%202008%20-%201080p%20-%20Dual.mp4",
-        "isActive": false
-    },
-    {
         "name": "Şehir Işıkları (City Lights) (1931)",
         "url": "https://s7.gelsistirire.top/d/zqnanjcosk3rtzj5a3wr3wuniw2igfhwtlay5jy6q7zco4dlnidctsc5mccsdxhumj2kbidl/CityLights-1931-BLURAY-TRDual%20mp4.mp4",
+        "isActive": true
+    },
+    {
+        "name": "Göklerde Vuruşanlar (Battle of Britain) (1969)",
+        "url": "https://s6.gelsistirire.top/d/zunh4qsosk3rtzj5h3wq5qeniauk32j63ut7d2cb6r6qaxuvllwiz2pc7qrslcebfb52a7qr/BattleOfBritain-1969-BLURAY-TRDual-dual-tt0064072.mp4",
         "isActive": true
     }
 ]
